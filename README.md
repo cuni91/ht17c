@@ -1,2 +1,3 @@
-# ht17c
-Variety UGC Content Review Standards
+There is no completely relevant direct answer regarding the standards for auditing UGC content in variety shows. Here are some related contents about UGC content audit for your reference.
+
+The UGC content review standards refer to the basis and requirements for platforms to review content uploaded or published by users on online platforms. This includes but is not limited to the legality of content, harmful nature of content, sensitivity of content, etc. UGC content review standards are usually formulated by the platform and adjusted according to the nature of the platform and the user group. The UGC content review standards need to be open and transparent so that users can understand the platform's review requirements and conduct self-examination of their own content.
